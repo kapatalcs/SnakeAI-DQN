@@ -106,7 +106,9 @@ Editable inside `agent.py`:
   Variable          Description              Default
   ----------------- ------------------------ ---------
   `MAX_MEMORY`      Replay buffer size       200,000
+  
   `BATCH_SIZE`      Number of samples/step   2048
+  
   `LEARNING_RATE`   Learning rate (LR)       0.001
 
 Game speed can be modified inside `gameAI.py` via `SPEED`.
