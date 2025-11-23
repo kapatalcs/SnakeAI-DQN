@@ -216,7 +216,6 @@ class Agent:
             ]
             
             for n in neighbors:
-                # Sınırlar ve Çarpışma Kontrolü
                 if 0 <= n.x < game.w and 0 <= n.y < game.h:
                     if n not in body_set and n not in visited:
                         visited.add(n)
