@@ -66,7 +66,7 @@ improvement.
 > Requires **Python 3.10+**
 
 ``` bash
-git clone https://github.com/kullanici/Snake-AI.git
+git clone https://github.com/user/Snake-AI.git
 cd Snake-AI
 pip install -r requirements.txt
 ```
